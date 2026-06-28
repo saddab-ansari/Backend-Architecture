@@ -1,0 +1,187 @@
+PS C:\Users\Saddab\Documents> python paper_tracker.py
+--------------------------------------------------------------------------
+
+Welcome to the Research Paper Tracker!
+Please select an option:
+1. View all papers
+2. Add a new paper
+3. Mark a paper as read
+4. Add a summary to a paper
+5. Exit
+--------------------------------------------------------------------------
+
+Enter your choice (1-5): 1
+
+Here are all the papers in your tracker:
+
+--------------------------------------------------------------------------
+Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville (2016) - Finished 
+
+Summary: No summary added.
+--------------------------------------------------------------------------
+
+You have finished 1 papers till now. Your target is to read 4 papers per month.
+--------------------------------------------------------------------------
+
+Welcome to the Research Paper Tracker!
+Please select an option:
+1. View all papers
+2. Add a new paper
+3. Mark a paper as read
+4. Add a summary to a paper
+5. Exit
+--------------------------------------------------------------------------
+
+Enter your choice (1-5): 2
+
+Enter the title of the paper: Pathalogical impact of twp
+Enter the authors of the paper: Saddab Ansari
+Enter the year of publication: 2026
+Have you finished reading this paper? (y/n): y
+--------------------------------------------------------------------------
+
+Pathalogical impact of twp has been added to your tracker.
+--------------------------------------------------------------------------
+
+Welcome to the Research Paper Tracker!
+Please select an option:
+1. View all papers
+2. Add a new paper
+3. Mark a paper as read
+4. Add a summary to a paper
+5. Exit
+--------------------------------------------------------------------------
+
+Enter your choice (1-5): 4
+
+Enter the title of the paper you want to add a summary to: Pathalogical impact of twp
+Enter the summary for the paper: This paper talks about the harmful effects and growing amount of TWP. Multiple examples of catalase has been seen so far - making it an important issue
+
+Summary added to Pathalogical impact of twp.
+--------------------------------------------------------------------------
+
+Welcome to the Research Paper Tracker!
+Please select an option:
+1. View all papers
+2. Add a new paper
+3. Mark a paper as read
+4. Add a summary to a paper
+5. Exit
+--------------------------------------------------------------------------
+
+Enter your choice (1-5): 1
+
+Here are all the papers in your tracker:
+
+--------------------------------------------------------------------------
+Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville (2016) - Finished 
+
+Summary: No summary added.
+--------------------------------------------------------------------------
+Pathalogical impact of twp by Saddab Ansari (2026) - Finished 
+
+Summary: This paper talks about the harmful effects and growing amount of TWP. Multiple examples of catalase has been seen so far - making it an important issue
+--------------------------------------------------------------------------
+
+You have finished 2 papers till now. Your target is to read 4 papers per month.
+--------------------------------------------------------------------------
+
+Welcome to the Research Paper Tracker!
+Please select an option:
+1. View all papers
+2. Add a new paper
+3. Mark a paper as read
+4. Add a summary to a paper
+5. Exit
+--------------------------------------------------------------------------
+
+Enter your choice (1-5): 2
+
+Enter the title of the paper: Land Use Case Study
+Enter the authors of the paper: Albert Han et al.
+Enter the year of publication: 2022
+Have you finished reading this paper? (y/n): n
+--------------------------------------------------------------------------
+
+Land Use Case Study has been added to your tracker.
+--------------------------------------------------------------------------
+
+Welcome to the Research Paper Tracker!
+Please select an option:
+1. View all papers
+2. Add a new paper
+3. Mark a paper as read
+4. Add a summary to a paper
+5. Exit
+--------------------------------------------------------------------------
+
+Enter your choice (1-5): 1
+
+Here are all the papers in your tracker:
+
+--------------------------------------------------------------------------
+Deep Learning by Ian Goodfellow, Yoshua Bengio, Aaron Courville (2016) - Finished 
+
+Summary: No summary added.
+--------------------------------------------------------------------------
+Pathalogical impact of twp by Saddab Ansari (2026) - Finished 
+
+Summary: This paper talks about the harmful effects and growing amount of TWP. Multiple examples of catalase has been seen so far - making it an important issue
+--------------------------------------------------------------------------
+Land Use Case Study by Albert Han et al. (2022) - Not Finished 
+
+Summary: No summary added.
+--------------------------------------------------------------------------
+
+You have finished 2 papers till now. Your target is to read 4 papers per month.
+--------------------------------------------------------------------------
+
+Welcome to the Research Paper Tracker!
+Please select an option:
+1. View all papers
+2. Add a new paper
+3. Mark a paper as read
+4. Add a summary to a paper
+5. Exit
+--------------------------------------------------------------------------
+
+Enter your choice (1-5): 3
+
+Enter the title of the paper you want to mark as read: Land Use Case Study
+
+Land Use Case Study has been marked as read.
+--------------------------------------------------------------------------
+
+--------------------------------------------------------------------------
+
+Welcome to the Research Paper Tracker!
+Please select an option:
+1. View all papers
+2. Add a new paper
+3. Mark a paper as read
+4. Add a summary to a paper
+5. Exit
+--------------------------------------------------------------------------
+
+Enter your choice (1-5): 2
+
+Enter the title of the paper: Deep Learning
+Enter the authors of the paper: Ian Goodfellow, Yoshua Bengio, Aaron Courville
+Enter the year of publication: 2016
+Have you finished reading this paper? (y/n): y
+--------------------------------------------------------------------------
+This Paper already exists
+--------------------------------------------------------------------------
+
+Welcome to the Research Paper Tracker!
+Please select an option:
+1. View all papers
+2. Add a new paper
+3. Mark a paper as read
+4. Add a summary to a paper
+5. Exit
+--------------------------------------------------------------------------
+
+Enter your choice (1-5): 5
+
+Thank you for using the Research Paper Tracker. Goodbye!
