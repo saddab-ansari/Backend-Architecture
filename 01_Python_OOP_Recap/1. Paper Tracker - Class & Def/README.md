@@ -6,4 +6,4 @@ type annotations, list operations, input validation, control flow.
 **Project:** CLI Research Paper Tracker — a stateful command-line tool to 
 manage an academic reading log with duplicate detection and progress tracking.
 
-**Status:** Complete
+**Status:** Complete.
