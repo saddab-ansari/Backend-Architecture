@@ -1,0 +1,259 @@
+(.venv) PS E:\FASTAPI> python main.py
+
+----------------------------------------
+
+Make a Choice :
+
+----------------------------------------
+
+1. Add a Subscription 
+2. View all Subscription 
+3. Cancel a subscription 
+4. Exit
+
+----------------------------------------
+
+Enter your Choice (1 , 2 , 3 , 4) : 1
+
+----------------------------------------
+
+Adding a new subscription.
+
+----------------------------------------
+
+Name of Subscription: Netflix
+Monthly Cost : 499
+Billing Date : 1st of month
+
+----------------------------------------
+
+What Kind of subscription is it? :
+
+----------------------------------------
+
+1. Digital Subscription 
+2. Physical Subscription
+
+Enter your choice (1 / 2) : 1
+
+----------------------------------------
+
+What is the 'devices connected' limit : 2
+
+----------------------------------------
+
+New Subscription was Successfully Added!
+
+----------------------------------------
+
+Make a Choice :
+
+----------------------------------------
+
+1. Add a Subscription 
+2. View all Subscription 
+3. Cancel a subscription 
+4. Exit
+
+----------------------------------------
+
+Enter your Choice (1 , 2 , 3 , 4) : 1
+
+----------------------------------------
+
+Adding a new subscription.
+
+----------------------------------------
+
+Name of Subscription: wifi
+Monthly Cost : 600
+Billing Date : 10th of month
+
+----------------------------------------
+
+What Kind of subscription is it? :
+
+----------------------------------------
+
+1. Digital Subscription 
+2. Physical Subscription
+
+Enter your choice (1 / 2) : 1
+
+----------------------------------------
+
+What is the 'devices connected' limit : 6
+
+----------------------------------------
+
+New Subscription was Successfully Added!
+
+----------------------------------------
+
+Make a Choice :
+
+----------------------------------------
+
+1. Add a Subscription 
+2. View all Subscription 
+3. Cancel a subscription 
+4. Exit
+
+----------------------------------------
+
+Enter your Choice (1 , 2 , 3 , 4) : 1
+
+----------------------------------------
+
+Adding a new subscription.
+
+----------------------------------------
+
+Name of Subscription: GYM
+Monthly Cost : 1000
+Billing Date : 10th of month
+
+----------------------------------------
+
+What Kind of subscription is it? :
+
+----------------------------------------
+
+1. Digital Subscription 
+2. Physical Subscription
+
+Enter your choice (1 / 2) : 2
+
+----------------------------------------
+
+Location : Pune
+
+----------------------------------------
+
+New Subscription was Successfully Added!
+
+----------------------------------------
+
+Make a Choice :
+
+----------------------------------------
+
+1. Add a Subscription 
+2. View all Subscription 
+3. Cancel a subscription 
+4. Exit
+
+----------------------------------------
+
+Enter your Choice (1 , 2 , 3 , 4) : 2
+
+----------------------------------------
+
+Displaying all your subscriptions:
+
+
+----------------------------------------
+
+Name : Netflix 
+Monthly cost : 499.0 
+Billing date : 1st of month 
+Device limit : 2
+
+----------------------------------------
+
+Name : wifi 
+Monthly cost : 600.0 
+Billing date : 10th of month 
+Device limit : 6
+
+----------------------------------------
+
+Name : GYM 
+Monthly cost : 1000.0 
+Billing date : 10th of month 
+location : Pune
+
+----------------------------------------
+
+Your Annual Cost for Subscriptions is : 25188.0
+
+----------------------------------------
+
+Make a Choice :
+
+----------------------------------------
+
+1. Add a Subscription 
+2. View all Subscription 
+3. Cancel a subscription 
+4. Exit
+
+----------------------------------------
+
+Enter your Choice (1 , 2 , 3 , 4) : 3
+
+----------------------------------------
+
+Cancelling your subscription...
+
+----------------------------------------
+
+Enter the name of the subscription : Netflix
+
+----------------------------------------
+
+The Subscription was Cancelled
+
+----------------------------------------
+
+Make a Choice :
+
+----------------------------------------
+
+1. Add a Subscription 
+2. View all Subscription 
+3. Cancel a subscription 
+4. Exit
+
+----------------------------------------
+
+Enter your Choice (1 , 2 , 3 , 4) : 2
+
+----------------------------------------
+
+Displaying all your subscriptions:
+
+
+----------------------------------------
+
+Name : wifi 
+Monthly cost : 600.0 
+Billing date : 10th of month 
+Device limit : 6
+
+----------------------------------------
+
+Name : GYM 
+Monthly cost : 1000.0 
+Billing date : 10th of month 
+location : Pune
+
+----------------------------------------
+
+Your Annual Cost for Subscriptions is : 19200.0
+
+----------------------------------------
+
+Make a Choice :
+
+----------------------------------------
+
+1. Add a Subscription 
+2. View all Subscription 
+3. Cancel a subscription 
+4. Exit
+
+----------------------------------------
+
+Enter your Choice (1 , 2 , 3 , 4) : 4
+(.venv) PS E:\FASTAPI> 
