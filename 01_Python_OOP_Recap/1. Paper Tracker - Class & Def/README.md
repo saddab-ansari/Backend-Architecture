@@ -1,4 +1,4 @@
-# 01 — Python OOP Recap
+# 01 — Paper Tracker : class & Def
 
 **Concepts covered:** Classes, `__init__`, dunder methods (`__str__`, `__eq__`),
 type annotations, list operations, input validation, control flow.
@@ -6,4 +6,4 @@ type annotations, list operations, input validation, control flow.
 **Project:** CLI Research Paper Tracker — a stateful command-line tool to 
 manage an academic reading log with duplicate detection and progress tracking.
 
-**Status:** Complete.
+**Status:** Complete
