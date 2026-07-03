@@ -1,7 +1,11 @@
 from subscription import *
 
+# Runtime-only storage: holds all Subscription objects (both DigitalSub
+# and PhysicalSub instances) for as long as the program is running.
 my_subs = []
 
+# Interactive CLI loop: keeps the menu running until the user picks
+# the "Exit" option, which triggers the `break` at the bottom.
 while True:
     print_separator()
     print("Make a Choice :")
@@ -39,11 +43,16 @@ while True:
             print("Please enter a valid number")
             continue
         
+        # Instantiating the DigitalSub subclass - this runs DigitalSub's
+        # __init__, which internally calls super().__init__() to set up
+        # the inherited name/monthly_cost/billing_date/__is_active fields.
         if sub_class == 1:
             device_limit = input("What is the 'devices connected' limit : ")
             new_sub = DigitalSub(name, monthly_cost ,billing_date, device_limit)
             my_subs.append(new_sub)
 
+        # Instantiating the PhysicalSub subclass - same inheritance flow
+        # as above, but adds the location attribute instead of device_limit.
         elif sub_class == 2:
             location = input("Location : ")
             new_sub = PhysicalSub(name, monthly_cost ,billing_date, location)
@@ -61,8 +70,14 @@ while True:
         if len(my_subs) > 0:
             total_cost = 0
             for sub in my_subs:
+                # Getter method call: check_status() reads the private
+                # __is_active flag through the class's public interface
+                # instead of accessing sub.__is_active directly.
                 if sub.check_status():
                     print_separator()
+                    # This calls __str__ on the object - Python automatically
+                    # dispatches to DigitalSub's or PhysicalSub's overridden
+                    # version depending on the object's actual type.
                     print(sub)
                     total_cost += sub.monthly_cost
             print_separator()
@@ -79,6 +94,9 @@ while True:
 
         for sub in my_subs:
             if remove_sub == sub.name:
+                # State mutation via method call: cancel() is the only
+                # sanctioned way to flip __is_active to False, keeping the
+                # encapsulation boundary intact instead of setting it directly.
                 sub.cancel()
                 flag = 1
         
@@ -89,11 +107,6 @@ while True:
             print("No such subscription found.")
             
 
+    # Exit option: any choice other than 1, 2, or 3 ends the while loop.
     else:
         break
-
-
-
-
-        
-    
