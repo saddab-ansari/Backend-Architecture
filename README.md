@@ -5,7 +5,7 @@ A continuous tracking repository documenting my progression through backend arch
 ### Current Highlight: Abstraction and Constructor
 Located in `01_Python_OOP_Recap/3.Subcription Tracker - Inheritance and Status`
 
-Project: Subscription Graveyard CLI — an interactive command-line application that tracks physical and digital subscriptions, calculates dynamic annual costs, and allows users to safely cancel subscriptions using protected state variables to see real-time savings.
+Project: Subcription Tracker CLI — an interactive command-line application that tracks physical and digital subscriptions, calculates dynamic annual costs, and allows users to safely cancel subscriptions using protected state variables to see real-time savings.
 
 ### Ongoing Course
 **FastAPI - The Complete Course 2026** by Eric Roby — working through backend 
