@@ -4,7 +4,7 @@ A continuous tracking repository documenting my progression through backend arch
 ### Current Highlight: Bookshelf API
 Located in `02_FastAPI_Fundamentals/03_Bookshelf_API_v2`
 
-Project: An upgraded Bookshelf API built with FastAPI — extending the original CRUD foundation with strict request validation, proper HTTP status codes, structured error handling, and a Pydantic-based request model replacing raw Body() calls.
+Project: An upgraded Bookshelf API built with FastAPI — extending the original CRUD foundation with strict request validation, proper HTTP status codes, structured error handling, and a Pydantic-based request model replacing raw Body() calls. This update made the project slightly more structured and better at validation. Thanks to the Status codes, the clients get a better output from the server regarding the status.
 
 ### Ongoing Course
 **FastAPI - The Complete Course 2026** by Eric Roby — working through backend 
