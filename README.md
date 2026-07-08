@@ -11,3 +11,4 @@ Project: A foundational CRUD API built with FastAPI — transitioning from in-me
 fundamentals, REST APIs, authentication, and database integration as the 
 foundation for building production AI systems.
 
+ *Right now, I have hit the database wall and have slowed down a little...*
