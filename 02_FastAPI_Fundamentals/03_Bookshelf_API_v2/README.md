@@ -8,4 +8,4 @@
 
 **Project:** An upgraded Bookshelf API built with FastAPI — extending the original CRUD foundation with strict request validation, proper HTTP status codes, structured error handling, and a Pydantic-based request model replacing raw `Body()` calls.
 
-**Status:** Complete
+**Status:** Complete - Now moving towards database section.
