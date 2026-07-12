@@ -8,4 +8,4 @@
 
 **Project:** A foundational CRUD API built with FastAPI — transitioning from in-memory Python lists to a persistent SQLite database using SQLAlchemy. Built as a learning follow-along to understand database sessions, ORM mapping, and backend data routing. 
 
-**Status:** Base CRUD Complete (Upgraded version in process).
+**Status:** Base CRUD Complete (Upgraded version with Auth in process).
