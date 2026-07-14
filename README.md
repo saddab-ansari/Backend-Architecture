@@ -11,4 +11,4 @@ Project: A foundational CRUD API built with FastAPI — transitioning from in-me
 fundamentals, REST APIs, authentication, and database integration as the 
 foundation for building production AI systems.
 
- *Learning Auth right now! Todo_API_SQLAlchemy_v2 dropping soon...*
+ *Learning Auth right now! Todo_API_SQLAlchemy_v2 dropping soon. I actually got caught up with college activities so I am a little slow right now, I'll try to finish it by this weekend.*
