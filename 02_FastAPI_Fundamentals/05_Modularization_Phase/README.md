@@ -31,6 +31,7 @@ This is what allows multiple files — each handling one job — to function tog
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/05e44b60-6de3-488c-9021-65ce08a32d70" />
 
-*AI-Generated image, for illustration purpose*
-
+<div align="center">
+  *AI-Generated image, for illustration purpose*
+</div>
 ## Status: Complete
