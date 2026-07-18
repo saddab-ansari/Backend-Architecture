@@ -1,4 +1,4 @@
-# 03 — Modularization Phase
+# 05 — Modularization Phase
 
 **Concepts covered:** Multi-file backend architecture, separation of concerns, `APIRouter` vs `FastAPI` app instance, module-to-module data flow, why monolithic files stop scaling.
 
