@@ -1,4 +1,4 @@
-# 05 — Todo API with JWT Authentication
+# 06 — Todo API with JWT Authentication
 
 **Tech Stack:** FastAPI · SQLAlchemy · SQLite · JWT (python-jose) · Passlib (bcrypt) · Pydantic
 
