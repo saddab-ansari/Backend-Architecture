@@ -19,8 +19,4 @@ A from-scratch build (no course, no follow-along), designed to test how much of 
 **Status:** Planning, build starts this week
 
 ### Ongoing Course
-**FastAPI - The Complete Course 2026** by Eric Roby, working through backend 
-fundamentals, REST APIs, authentication, and database integration as the 
-foundation for building production AI systems.
-
-*JWT-authenticated Todo API complete. Moving on to ApplyTrack, a self-designed project to consolidate everything from the course before going further.*
+**FastAPI - The Complete Course 2026** by Eric Roby, working through backend fundamentals, REST APIs, authentication, and database integration as the foundation for building production AI systems.
