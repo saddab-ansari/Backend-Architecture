@@ -13,10 +13,12 @@ Project: A fully authenticated Todo API. Users register, log in, and receive a J
 
 **Status:** Complete
 
-### Up Next: ApplyTrack
+### Up Next: ApplyTrack 
+***(under progress in an independent repo named 'ApplyTrack-API')*** <br>
 A from-scratch build (no course, no follow-along), designed to test how much of the Todo API actually stuck. Same core stack (FastAPI, SQLAlchemy, JWT auth), extended with a real three-table relational chain (Company → Application → InterviewRound), status enums, query-param filtering/pagination/sorting, and `.env`-based config instead of a hardcoded secret key.
 
-**Status:** Planning, build starts this week
+**Status:** Added Database, Models and Authentication (with JWT). Moving towards Company CRUD <br><br>
+
 
 ### Ongoing Course
 **FastAPI - The Complete Course 2026** by Eric Roby, working through backend fundamentals, REST APIs, authentication, and database integration as the foundation for building production AI systems.
